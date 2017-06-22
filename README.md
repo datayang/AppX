@@ -13,7 +13,7 @@ AppX 系列预览：
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 <a href="http://www.ifeegoo.com/mobile-application-development-the-choice-of-ide-and-programming-language-including-cross-platform-framework.html" target="_blank">移动应用开发：IDE、开发语言、跨平台框架的选择</a> (√)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 移动应用开发：模拟器调试、真机调试、打包、内测和上架 （准备中）
 
-### <a href="http://www.ifeegoo.com/mobile-application-development-the-choice-of-ide-and-programming-language-including-cross-platform-framework.html" target="_blank">移动应用开发：IDE、开发语言、跨平台框架的选择</a>
+### 1.2.1 <a href="http://www.ifeegoo.com/mobile-application-development-the-choice-of-ide-and-programming-language-including-cross-platform-framework.html" target="_blank">移动应用开发：IDE、开发语言、跨平台框架的选择</a>
 
 #### 表 1：常见的 Android 原生开发的 IDE
 
