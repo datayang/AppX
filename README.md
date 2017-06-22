@@ -1,10 +1,10 @@
 # AppX
 
 
-<span style="font-size:12pt;">
-表 1：常见的 Android 原生开发的 IDE</span>
 
-<table border="1">
+#### 表 1：常见的 Android 原生开发的 IDE
+
+<table border="0">
 <tr>
 <td style="text-align:center;font-size:12pt">&nbsp;No.&nbsp;</td>
 <td style="text-align:center;font-size:12pt">&nbsp;IDE&nbsp;</td>
@@ -47,10 +47,9 @@
 </tr>
 </table>
 
-<span style="font-size:12pt;">
-表 2：常见的 iOS 原生开发的 IDE</span>
+#### 表 2：常见的 iOS 原生开发的 IDE
 
-<table border="1">
+<table border="0">
 <tr>
 <td style="text-align:center;font-size:12pt">&nbsp;No.&nbsp;</td>
 <td style="text-align:center;font-size:12pt">&nbsp;IDE&nbsp;</td>
