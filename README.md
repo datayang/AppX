@@ -383,7 +383,7 @@
 
 #### 表 8：常见的移动应用（Android & iOS）跨平台开发框架（Web/Hybrid）
 
-<table border="1">
+<table border="0">
 <tr>
 <td style="text-align:center;font-size:12pt">&nbsp;No.&nbsp;</td>
 <td style="text-align:center;font-size:12pt">&nbsp;框架名称&nbsp;</td>
@@ -415,5 +415,66 @@
 <td style="font-size:12pt;">&nbsp;<a href="https://cordova.apache.org" target="_blank">Cordova</a>/<a href="https://angularjs.org" target="_blank">AngularJS</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.jetbrains.com/help/webstorm/2017.1/phonegap-cordova.html" target="_blank">WebStorm</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;☆☆☆☆&nbsp;</td>
+</tr>
+</table>
+
+#### 表 9：常见的移动应用（Android & iOS）跨平台开发 UI 框架（Web/Hybrid）
+
+<table border="0">
+<tr>
+<td style="text-align:center;font-size:12pt">&nbsp;No.&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;框架名称&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;开发者&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;基于&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;推荐的 IDE&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;推荐指数&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">1</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://jquerymobile.com" target="_blank">jQuery Mobile</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://jquery.org" target="_blank">jQuery</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://jquery.org" target="_blank">jQuery</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.jetbrains.com/help/webstorm/2017.1/phonegap-cordova.html" target="_blank">WebStorm</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;待评价&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">2</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.sencha.com/products/touch" target="_blank">Sencha Touch</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.sencha.com" target="_blank">Sencha</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Javascript_(programming_language)" target="_blank">JavaScript</a>/<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>/<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;待评价&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">3</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://mobileangularui.com" target="_blank">Mobile Angular UI</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://github.com/mcasimir" target="_blank">mcasimir</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://angularjs.org" target="_blank">AngularJS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;*&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;待评价&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">4</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://onsen.io" target="_blank">Onsen UI</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://monaca.io" target="_blank">Monaca Team</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Javascript_(programming_language)" target="_blank">JavaScript</a>/<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>/<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;*&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;待评价&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">5</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://framework7.io" target="_blank">Framework7</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://idangero.us/" target="_blank">iDangerous</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Javascript_(programming_language)" target="_blank">JavaScript</a>/<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>/<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;*&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;待评价&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">6</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://dev.dcloud.net.cn/mui/" target="_blank">MUI</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.dcloud.io/" target="_blank">DCloud</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Javascript_(programming_language)" target="_blank">JavaScript</a>/<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>/<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.dcloud.io/" target="_blank">HBuilder</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;待评价&nbsp;</td>
 </tr>
 </table>
