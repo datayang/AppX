@@ -1,6 +1,19 @@
 # AppX
 
+## AppX 是什么？
 
+AppX 是个人整理的关于移动互联网学习、工作中的不仅限于技术的系列内容。
+
+## AppX 推进中
+
+AppX 系列预览：  
+1.移动互联网程序员  
+&nbsp;&nbsp;1.1 *  
+&nbsp;&nbsp;1.2 移动应用开发  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 <a href="http://www.ifeegoo.com/mobile-application-development-the-choice-of-ide-and-programming-language-including-cross-platform-framework.html" target="_blank">移动应用开发：IDE、开发语言、跨平台框架的选择</a> (√)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 移动应用开发：模拟器调试、真机调试、打包、内测和上架 （准备中）
+
+### <a href="http://www.ifeegoo.com/mobile-application-development-the-choice-of-ide-and-programming-language-including-cross-platform-framework.html" target="_blank">移动应用开发：IDE、开发语言、跨平台框架的选择</a>
 
 #### 表 1：常见的 Android 原生开发的 IDE
 
