@@ -380,3 +380,40 @@
 <td style="font-size:12pt;">&nbsp;不推荐&nbsp;</td>
 </tr>
 </table>
+
+#### 表 8：常见的移动应用（Android & iOS）跨平台开发框架（Web/Hybrid）
+
+<table border="1">
+<tr>
+<td style="text-align:center;font-size:12pt">&nbsp;No.&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;框架名称&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;开发者&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;基于&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;推荐的 IDE&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;推荐指数&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">1</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://cordova.apache.org" target="_blank">Cordova</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://apache.org" target="_blank">Apache</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Javascript_(programming_language)" target="_blank">JavaScript</a>/<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>/<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.visualstudio.com/zh-hans/vs/cordova" target="_blank">Visual Studio</a>/<a href="https://www.jetbrains.com/help/webstorm/2017.1/phonegap-cordova.html" target="_blank">WebStorm</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆☆☆&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">2</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://phonegap.com" target="_blank">PhoneGap</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://www.adobe.com" target="_blank">Adobe</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://cordova.apache.org" target="_blank">Cordova</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.jetbrains.com/help/webstorm/2017.1/phonegap-cordova.html" target="_blank">WebStorm</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆☆☆&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">3</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://ionicframework.com" target="_blank">Ionic</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://www.drifty.com" target="_blank">Drifty</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://cordova.apache.org" target="_blank">Cordova</a>/<a href="https://angularjs.org" target="_blank">AngularJS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.jetbrains.com/help/webstorm/2017.1/phonegap-cordova.html" target="_blank">WebStorm</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆☆☆&nbsp;</td>
+</tr>
+</table>
