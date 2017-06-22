@@ -261,7 +261,7 @@
 <td style="font-size:12pt;">&nbsp;<a href="https://www.facebook.com" target="_blank">Facebook</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Javascript_(programming_language)" target="_blank">JavaScript</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://nuclide.io" target="_blank">Nuclide</a>/<a href="https://www.decoide.org" target="_blank">Deco</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆☆☆☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆☆☆&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align:center;font-size:12pt;">2</td>
@@ -269,7 +269,7 @@
 <td style="font-size:12pt;">&nbsp;<a href="http://www.appcelerator.com" target="_blank">Appcelerator</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Javascript_(programming_language)" target="_blank">JavaScript</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="http://preview.appcelerator.com/appc-studio" target="_blank">Appcelerator Studio</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align:center;font-size:12pt;">3</td>
@@ -277,7 +277,7 @@
 <td style="font-size:12pt;">&nbsp;<a href="https://www.progress.com" target="_blank">Progress</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>/<a href="https://www.typescriptlang.org" target="_blank">TypeScript</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a>/<a href="https://www.jetbrains.com/webstorm" target="_blank">WebStorm</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align:center;font-size:12pt;">4</td>
@@ -285,7 +285,7 @@
 <td style="font-size:12pt;">&nbsp;<a href="https://www.microsoft.com" target="_blank">Microsoft</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">C#</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://developer.xamarin.com/releases/studio" target="_blank">Xamarin Studio</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆☆☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆☆&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align:center;font-size:12pt;">5</td>
@@ -293,7 +293,7 @@
 <td style="font-size:12pt;">&nbsp;<a href="https://www.qt.io" target="_blank">Qt</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/C++" target="_blank">C++</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.qt.io/ide" target="_blank">Qt Creator</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆☆☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆☆&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align:center;font-size:12pt;">6</td>
@@ -301,7 +301,7 @@
 <td style="font-size:12pt;">&nbsp;<a href="https://www.google.com" target="_blank">Google</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="http://www.dartlang.org" target="_blank">Dart</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align:center;font-size:12pt;">7</td>
@@ -309,7 +309,7 @@
 <td style="font-size:12pt;">&nbsp;<a href="https://www.codenameone.com" target="_blank">Codename One</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="http://www.oracle.com/technetwork/java/index.html" target="_blank">Java</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align:center;font-size:12pt;">8</td>
@@ -317,7 +317,7 @@
 <td style="font-size:12pt;">&nbsp;Scratchwork&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.ruby-lang.org" target="_blank">Ruby</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.jetbrains.com/ruby" target="_blank">RubyMine</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align:center;font-size:12pt;">9</td>
@@ -325,14 +325,14 @@
 <td style="font-size:12pt;">&nbsp;<a href="http://pyzia.com" target="_blank">Pyzia</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.python.org" target="_blank">Python</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;*&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆&nbsp;</td>
 </tr>
 <td style="text-align:center;font-size:12pt;">10</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.b4x.com" target="_blank">B4X</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;Anywhere Software&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank">Visual Basic</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.b4x.com" target="_blank">B4X</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align:center;font-size:12pt;">11</td>
@@ -340,6 +340,43 @@
 <td style="font-size:12pt;">&nbsp;<a href="https://www.lazarus-ide.org" target="_blank">Lazarus Team</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)" target="_blank">Pascal</a>&nbsp;</td>
 <td style="font-size:12pt;">&nbsp;<a href="https://www.lazarus-ide.org" target="_blank">Lazarus IDE</a>&nbsp;</td>
-<td style="text-align:center;font-size:12pt">&nbsp;☆&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆&nbsp;</td>
+</tr>
+</table>
+
+#### 表 7：常见的移动应用（Android & iOS）跨平台开发 UI 框架（Native）
+
+<table border="0">
+<tr>
+<td style="text-align:center;font-size:12pt">&nbsp;No.&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;框架名称&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;开发者&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;基于&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;推荐的 IDE&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;推荐指数&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">1</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://nativebase.io" target="_blank">NativeBase</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.geekyants.com" target="_blank">Geeky Ants</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://facebook.github.io/react-native" target="_blank">React Native</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://nuclide.io" target="_blank">Nuclide</a>/<a href="https://www.decoide.org" target="_blank">Deco</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">2</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://weex.apache.org" target="_blank">weex</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://apache.org" target="_blank">Apache</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://en.wikipedia.org/wiki/Javascript_(programming_language)" target="_blank">JavaScript</a>/<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>/<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://nuclide.io" target="_blank">Nuclide</a>/<a href="https://www.decoide.org" target="_blank">Deco</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;☆☆&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">3</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://kivy.org" target="_blank">Kivy</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://kivy.org" target="_blank">Kivy</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.python.org" target="_blank">Python</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://nuclide.io" target="_blank">Nuclide</a>/<a href="https://www.decoide.org" target="_blank">Deco</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;不推荐&nbsp;</td>
 </tr>
 </table>
