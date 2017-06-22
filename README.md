@@ -478,3 +478,158 @@
 <td style="font-size:12pt;">&nbsp;待评价&nbsp;</td>
 </tr>
 </table>
+
+#### 表 10：Android App 新技术
+
+<table border="0">
+<tr>
+<td style="text-align:center;font-size:12pt">&nbsp;No.&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;名称&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;基于&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;备注&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">1</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://developers.google.com/web/progressive-web-apps/" target="_blank">Progressive Web App</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;Web&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;浏览器可将 Web 页面转成看起来像本地原生的 App。&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">2</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://developer.android.com/topic/instant-apps/index.html" target="_blank">Instant App</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;不清楚&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;浏览器访问 Web 页面，直接加载看起来像本地原生的 App。&nbsp;</td>
+</tr>
+</table>
+
+#### 表 11：移动应用开发“跨平台”的其他特殊手段
+
+<table border="0">
+<tr>
+<td style="text-align:center;font-size:12pt">&nbsp;No.&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;名称&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;备注&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">1</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://github.com/google/j2objc"target="_blank">J2ObjC</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;可以将非 UI 相关的 Java 代码转换成 Objective-C 代码。&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">2</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.myappconverter.com/" target="_blank">MyAppConverter</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;可以将 Objective-C 代码 转成 Swift/Java，包含部分 UI 代码。&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">3</td>
+<td style="font-size:12pt;">&nbsp;<a href="http://www.apportable.com/" target="_blank">Apportable</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;可以将 iOS 应用整体转换成 Android 应用。&nbsp;</td>
+</tr>
+</table>
+
+#### 表 12：iOS UI 到 Android UI 转换对应参考表</a></span>
+
+<table border="0">
+<tr>
+<td style="text-align:center;font-size:12pt">&nbsp;No.&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;iOS UI&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;Android UI&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">1</td>
+<td style="font-size:12pt;">&nbsp;UIView&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;RelativeLayout&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">2</td>
+<td style="font-size:12pt;">&nbsp;UILabel&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;TextView&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">3</td>
+<td style="font-size:12pt;">&nbsp;UIButton&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;AppCompatButton&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">4</td>
+<td style="font-size:12pt;">&nbsp;UIImageView&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;ImageView&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">5</td>
+<td style="font-size:12pt;">&nbsp;UITextField&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;EditText&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">6</td>
+<td style="font-size:12pt;">&nbsp;UITextView&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;EditText&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">7</td>
+<td style="font-size:12pt;">&nbsp;UISlider&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;AppCompatSeekBar&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">8</td>
+<td style="font-size:12pt;">&nbsp;UISwitch&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;SwitchCompat&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">9</td>
+<td style="font-size:12pt;">&nbsp;UISegmentedControl&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;RadioGroup&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">10</td>
+<td style="font-size:12pt;">&nbsp;UIWebView&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;WebView&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">11</td>
+<td style="font-size:12pt;">&nbsp;UITableView&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;ListViewCompat&nbsp;</td>
+</tr>
+</table>
+
+#### 表 13：Android VS iOS 生态
+
+<table border="0">
+<tr>
+<td style="text-align:center;font-size:12pt">&nbsp;分类&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;Android&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;iOS&nbsp;</td>
+<td style="text-align:center;font-size:12pt">&nbsp;备注&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">&nbsp;主系统&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.android.com/" target="_blank">Android</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.apple.com/ios" target="_blank">iOS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;主要用于手机和平板的移动操作系统&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">&nbsp;手表&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.android.com/wear/" target="_blank">Android Wear</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.apple.com/watchos/" target="_blank">watchOS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;用于手表的移动操作系统&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">&nbsp;电视&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.android.com/tv/" target="_blank">Android TV</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.apple.com/tvos/" target="_blank">tvOS</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;用于电视的操作系统&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">&nbsp;汽车&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.android.com/auto/" target="_blank">Android Auto</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://www.apple.com/ios/carplay/" target="_blank">CarPlay</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;用于汽车上依赖于手机的车载移动操作系统&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center;font-size:12pt;">&nbsp;物联网&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://developer.android.com/things/index.html" target="_blank">Android Things</a>&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;<a href="https://developer.apple.com/homekit/" target="_blank">HomeKit</a>*&nbsp;</td>
+<td style="font-size:12pt;">&nbsp;用于物联网技术与产品&nbsp;</td>
+</tr>
+</table>
+
