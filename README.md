@@ -5,7 +5,7 @@
 
 ## AppX 是什么？
 
-AppX 是针对同时开发 Android 和 iOS 应用的开发者的技术栈系列。
+AppX 是针对同时开发 Android 和 iOS 应用的开发者的技术栈系列。详细描述请参见：http://www.ifeegoo.com/appx.html
 
 ## AppX 推进中
 
