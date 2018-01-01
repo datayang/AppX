@@ -15,6 +15,7 @@ AppX 系列预览：
 &nbsp;&nbsp;1.2 移动应用开发  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 <a href="http://www.ifeegoo.com/mobile-application-development-the-choice-of-ide-and-programming-language-including-cross-platform-framework.html" target="_blank">移动应用开发：IDE、开发语言、跨平台框架的选择</a> (√)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 移动应用开发：证书配置、模拟器与真机调试、打包、测试和发布（准备中）  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2.0 <a href="http://www.ifeegoo.com/recommended-mobile-application-version-name-management-specification.html" rel="noopener" target="_blank">推荐的移动应用的版本名称管理规范</a> (√)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2.1 <a href="http://www.ifeegoo.com/using-testflight-for-ios-app-internal-testing.html" rel="noopener" target="_blank">使用 TestFlight 进行 iOS App 内测</a> (√)
 
 ### 1.2.1 <a href="http://www.ifeegoo.com/mobile-application-development-the-choice-of-ide-and-programming-language-including-cross-platform-framework.html" target="_blank">移动应用开发：IDE、开发语言、跨平台框架的选择</a>
